@@ -5,7 +5,7 @@ metadata:
   namespace: default
 data:
   NEW_FEATURE: "true"
-  DOESNT_MATTER: "false"
+  DOESNT_MATTER: "false or not"
 
 ---
 
