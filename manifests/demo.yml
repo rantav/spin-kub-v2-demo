@@ -4,8 +4,7 @@ metadata:
   name: spinnaker-demo-config
   namespace: default
 data:
-  NEW_FEATURE: "true"
-  TEST: "true "
+  NEW_FEATURE: "false"
 
 ---
 
